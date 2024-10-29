@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorldCinemaApp</string>
+    <string name="logo_desc">Логотип WorldCinema</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="reg">Регистрация</string>
+    <string name="ret_text">У меня уже есть аккаунт</string>
+</resources>
